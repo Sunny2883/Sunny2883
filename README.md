@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="terraform" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original-wordmark.svg" alt="terraform" width="45" height="45"/>
 
 </p>
