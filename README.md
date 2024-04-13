@@ -47,9 +47,16 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5eGFFhD85y5peTUtVN237YcgBbDiqSItDfi1f7854G_kQQm37J-CyIu8W4kTNKINk12Y&usqp=CAU" alt="php" width="45" height="45"/>
-<img src="https://www.google.com/imgres?q=terraform%20images&imgurl=https%3A%2F%2Fwww.aviator.co%2Fblog%2Fwp-content%2Fuploads%2F2023%2F01%2Fterraform.png&imgrefurl=https%3A%2F%2Fwww.aviator.co%2Fblog%2Fgetting-started-with-terraform-in-devops%2F&docid=DKjMbKLYn0X8WM&tbnid=thc2yXodxl09nM&vet=12ahUKEwirgveHgr-FAxUN9zgGHVxAAaYQM3oECH4QAA..i&w=949&h=712&hcb=2&ved=2ahUKEwirgveHgr-FAxUN9zgGHVxAAaYQM3oECH4QAA" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/6SMqpFkJ61UzFqeB7" alt="terraform" width="45" height="45"/>
+<img src="https://images.app.goo.gl/c87vzTHgB7Xvc7gH7" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/zU3cWbLUwK9Hhq6i8" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/5Wkc87oeswJwwMiQ8" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/2Eife63t7B3bY7gU6" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/1bCN5RRNW24a8vFw5" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/p9663yZRBJ3ViWqS8" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/qEovEvwgW1KBmxBg8" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/phpfuWwn9qN3dybz7" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/woeUX5ntCp2LPbU3A" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/pFJt7FW3THBgDN337" alt="php" width="45" height="45"/>
+<img src="https://images.app.goo.gl/NUMKRJ1TzmnKkqNp9" alt="php" width="45" height="45"/>
 </p>
