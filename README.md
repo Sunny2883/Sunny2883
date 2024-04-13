@@ -47,16 +47,14 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5eGFFhD85y5peTUtVN237YcgBbDiqSItDfi1f7854G_kQQm37J-CyIu8W4kTNKINk12Y&usqp=CAU" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/6SMqpFkJ61UzFqeB7" alt="terraform" width="45" height="45"/>
-<img src="https://images.app.goo.gl/c87vzTHgB7Xvc7gH7" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/zU3cWbLUwK9Hhq6i8" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/5Wkc87oeswJwwMiQ8" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/2Eife63t7B3bY7gU6" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/1bCN5RRNW24a8vFw5" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/p9663yZRBJ3ViWqS8" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/qEovEvwgW1KBmxBg8" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/phpfuWwn9qN3dybz7" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/woeUX5ntCp2LPbU3A" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/pFJt7FW3THBgDN337" alt="php" width="45" height="45"/>
-<img src="https://images.app.goo.gl/NUMKRJ1TzmnKkqNp9" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="terraform" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="php" width="45" height="45"/>
+
 </p>
